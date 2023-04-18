@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  11 APR 2023 09:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  18 APR 2023 04:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1325,27 +1325,27 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (7.31776pt too wide) in paragraph at lines 146--146
+Overfull \hbox (7.31776pt too wide) in paragraph at lines 149--149
  []|\OT1/lmss/bx/n/12 Component| 
  []
 
 
-Overfull \hbox (7.11734pt too wide) in paragraph at lines 146--146
+Overfull \hbox (7.11734pt too wide) in paragraph at lines 149--149
  []|\OT1/lmss/m/n/12 ArduinoUNO| 
  []
 
 
-Overfull \hbox (7.64922pt too wide) in paragraph at lines 146--146
+Overfull \hbox (7.64922pt too wide) in paragraph at lines 149--149
  []|\OT1/lmss/m/n/12 JumperWires| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--160
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--200
+Underfull \hbox (badness 10000) in paragraph at lines 184--203
 
  []
 
@@ -1360,13 +1360,13 @@ Package rerunfilecheck Info: File `cs72021.out' has not changed.
 Here is how much of TeX's memory you used:
  36744 strings out of 479304
  828823 string characters out of 5869780
- 1477780 words of memory out of 5000000
+ 1478779 words of memory out of 5000000
  53326 multiletter control sequences out of 15000+600000
  558177 words of font info for 137 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  87i,11n,89p,1196b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/share/texmf/fonts/type1/public/
 lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
@@ -1375,7 +1375,7 @@ onts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
 
-Output written on cs72021.pdf (2 pages, 156650 bytes).
+Output written on cs72021.pdf (2 pages, 156840 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

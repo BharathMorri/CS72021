@@ -117,6 +117,9 @@ Q.7. Let p and q be two proportions. Consider the following two formulae in prop
 S1: $(\neg{p}\land({p}\lor{q})) \longrightarrow q$\\
 S2: $q \longrightarrow (\neg{p}\land({p}\lor{q}))$
 \end{center}
+S1 and S2 in terms of boolean expression.\\
+S1: $A'(A+B) \longrightarrow B = (A'(A+B))'+B$\\
+S2: $q \longrightarrow p'(p+q) = q'+p'(p+q)$\\
 Which one of the following choices is correct?
 \begin{enumerate}
 \item Both S1 and S2 are tautologies.
@@ -204,7 +207,9 @@ Therefore the expression S1 becomes as\\
 S1: $(\neg{A} \land({A}\lor{B})) \longrightarrow B = \neg((\neg{A} \land({A}\lor{B})))\lor{B}$\\
 The boolean expression for the propositional expression can be written as:\\
 S1: $A'(A+B) \longrightarrow B = (A'(A+B))'+B$
-\begin{table}[h]                                   \centering                                        \caption{Logical Truth table for expression S1} 
+\begin{table}[h]                                   
+\centering                                      
+\caption{Logical Truth table for expression S1} 
  \begin{tabular}{|c|c|c|}
  \hline
  A & B & (A'(A+B))'+B\\
