@@ -118,7 +118,7 @@ S1: $(\neg{p}\land({p}\lor{q})) \longrightarrow q$\\
 S2: $q \longrightarrow (\neg{p}\land({p}\lor{q}))$
 \end{center}
 S1 and S2 in terms of boolean expression.\\
-S1: $A'(A+B) \longrightarrow B = (A'(A+B))'+B$\\
+S1: $p'(p+q) \longrightarrow q = (p'(p+q))'+q$\\
 S2: $q \longrightarrow p'(p+q) = q'+p'(p+q)$\\
 Which one of the following choices is correct?
 \begin{enumerate}
@@ -228,10 +228,18 @@ Consider the propositional logic S2:\\
   S2: $q \longrightarrow (\neg{p}\land({p}\lor{q})) = \neg{q} \lor (\neg{p} \land ({p}\lor {q}))$
  The boolean expression for the proportional expression can be written as\\
  S2: $q \longrightarrow p'(p+q) = q'+p'(p+q)$
-\begin{table}[h]                                   \centering                                        \caption{Logical Truth table for expression S2}          \begin{tabular}{|c|c|c|}                          \hline                                            p & q & q'+p'(p+q)\\                              \hline                                            0 & 0 & 1\\
-        \hline
-        0 & 1 & 1\\
-        \hline                                            1 & 0 & 1\\
+\begin{table}[h]                                   
+\centering                                        
+\caption{Logical Truth table for expression S2}
+  \begin{tabular}{|c|c|c|}
+	\hline
+	p&q&q'+p'(p+q)\\
+	\hline
+	0 & 0 & 1\\
+	\hline
+	0 & 1 & 1\\
+	\hline
+	1 & 0 & 1\\
         \hline
         1 & 1 & 0\\
         \hline
